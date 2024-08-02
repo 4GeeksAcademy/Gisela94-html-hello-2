@@ -1,0 +1,48 @@
+
+img {
+    margin-bottom: 2%;
+}
+
+
+.left-column {
+    display: inline-block;
+}
+
+.right-column {
+    display: inline-block;
+    margin-left: 20%;
+    
+}
+
+.right-column-b {
+    display: inline-block;
+    margin-left: 40%;
+
+}
+
+.right-column-c {
+    display: inline-block;
+    margin-left: 77%;
+
+}
+
+.icons {
+    display: flex;
+    text-align: center;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+}
+
+.coll-4 {
+    margin-bottom: 100px;
+}
+
+.cards {
+    margin-bottom: 2%;
+}
+
+a {
+    color: red;
+    text-decoration: underline;
+}
+
